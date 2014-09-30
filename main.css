@@ -1,0 +1,112 @@
+body,html {
+
+	margin-left: auto;
+    margin-right: auto;
+	
+	width:100%;
+	height:100%;
+	background-color:#ADADAD;
+   
+}
+
+
+
+
+
+#newstitle {
+	
+	
+}
+#googleMap {
+
+	
+}
+#stubhub {
+	
+	
+}
+
+#time {
+	
+}
+#rss {
+	
+	
+
+}
+#rssdesc {
+	
+}
+#rsstitle {
+	
+}
+#googleMap{
+margin-left:auto;
+margin-right:auto;
+display:block;
+
+}
+#yahoo{
+width:600px;
+margin-left:auto;
+margin-right:auto;
+}
+
+#stub{
+width:600px;
+margin-left:auto;
+margin-right:auto;
+}
+
+#q{
+
+
+
+}
+#youtube {
+	
+	width:800px;
+	display:block;
+	margin:auto;
+}
+#thumbmnail{
+
+}
+#header{
+
+width:850px;
+height:100px;
+background-color:#ff0000;
+margin:0 auto;
+margin-top:-20px;
+}
+#con{
+height:100%;
+width:850px;
+background-color:#ffffff;
+margin-top:-20px;
+margin:0 auto;
+}
+.nav{
+
+    border:2px solid #585a5d;
+    border-width:3px 0;
+    list-style:none;
+    margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+    padding:0;
+    text-align:center;
+	background-color:#F5F5F5;
+	font-size:20px;
+	height:30px;
+}
+.nav li{
+    display:inline;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+}
+
+
